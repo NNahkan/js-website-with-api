@@ -1,20 +1,4 @@
-/* 
-		I have to say that I am sorry for the spaghetti code.. 
-		As much as I can, I try to do comments for every function.
-		There is a little problem about poke-filter class. It behave little bit weird
-		about flex-box. It shift to bottom when I click legendary (for example) when page is not
-		max sized. Sorry for setTimeOuts :(
-
-		And :/ I have a question for you. Instead of asking on discord. I think it will be easy for
-		you to respond in video. Question is that I am so sick to be bartender LoL. I want so badly
-		to begin my career as a developer. The thing is that I have a degree as a engineer(Electric-electronic).
-		Do you think I should apply for internship? Or what is your advise for me? I haven't
-		done any freelancing for now. Could you talk about this for a couple of minutes ? 
-		Love you devslopes <3
-*/
-
-
-const root = document.documentElement;
+ const root = document.documentElement;
 const body = document.querySelector("body");
 
 const modalOpen = "[data-open]";
